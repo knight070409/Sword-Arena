@@ -8,6 +8,15 @@ This project is a technical assignment demonstrating fundamentals in Unity multi
 
 ---
 
+## 📥 Download
+
+Get the latest APK build from [Releases](https://github.com/knight070409/Sword-Arena/releases) 
+
+**Latest Version**: v1.0.0  
+**Download**: [Sword Arena.apk](https://github.com/knight070409/Sword-Arena/releases/download/v1.0.0/Sword.Arena.apk)
+
+---
+
 ## 📋 Technical Specifications
 
 ### Unity & Framework
